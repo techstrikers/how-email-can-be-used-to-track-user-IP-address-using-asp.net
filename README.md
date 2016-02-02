@@ -1,0 +1,2 @@
+# how-email-can-be-used-to-track-user-IP-address-using-asp.net
+In this article I am going to discuss how to get client IP Address in asp.net web application. In email marketing sometimes you may require to track users IP address that has opened your sent email. When user opens email from mailbox, the "ProcessRequest" of "image.ashx" file will be fire, where you can track user's IP address.  http://www.techstrikers.com/Articles/how-email-can-be-used-to-track-user-IP-address-using-asp.net.php
